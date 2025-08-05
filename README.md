@@ -1,5 +1,7 @@
 # Deye Grid Settings Repository
 
+This is a work-in-progress repository for Deye inverter grid settings, focusing on configurations for different regions and setup modes. The goal is to provide a comprehensive resource for installers and users to ensure compliance with local grid codes and optimal performance and to make it easier to find back information regarding configurations.
+
 A comprehensive repository documenting Deye inverter settings for different grid scenarios, countries, and electrical standards worldwide.
 
 ## 🎯 Purpose
