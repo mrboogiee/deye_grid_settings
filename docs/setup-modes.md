@@ -18,6 +18,7 @@ Deye hybrid inverters support multiple setup modes depending on how PV panels, b
 
 ### 1. Basic Setup
 
+![Basic Setup](images/mode1.png)
 **Configuration:**
 
 - ✅ Battery connected to battery port
@@ -47,6 +48,7 @@ The most common residential setup for hybrid solar systems. Provides solar gener
 
 ### 2. Generator Setup
 
+![Generator Setup](images/mode2.png)
 **Configuration:**
 
 - ✅ Battery connected to battery port
@@ -82,6 +84,7 @@ Extends the Basic setup with generator backup capability. The generator can char
 
 ### 3. Smart-Load Setup
 
+![Smart-Load Setup](images/mode3.png)
 **Configuration:**
 
 - ✅ Battery connected to battery port
@@ -119,6 +122,7 @@ Uses the GEN port as a controllable output for non-essential loads. The inverter
 
 ### 4. AC Couple Setup
 
+![AC Couple Setup](images/mode4.png)
 **Configuration:**
 
 - ✅ Battery connected to battery port
@@ -154,6 +158,7 @@ Combines DC-coupled solar (PV inputs) with AC-coupled solar (microinverter on GE
 
 ### 5. AC-Solar Setup
 
+![AC-Solar Setup](images/mode5.png)
 **Configuration:**
 
 - ✅ Battery connected to battery port

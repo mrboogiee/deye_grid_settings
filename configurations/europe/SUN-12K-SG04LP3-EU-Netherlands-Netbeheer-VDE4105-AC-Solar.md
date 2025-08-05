@@ -65,6 +65,8 @@ See [Setup Modes Documentation](../../docs/setup-modes.md) for detailed connecti
 
 ### Time of Use Settings
 
+Time of Use (TOU) settings allow for optimized energy usage based on time periods. Modify this to your own requirements.
+
 | Parameter             | Value                                    | Unit | Description                       |
 | --------------------- | ---------------------------------------- | ---- | --------------------------------- |
 | Time of Use           | ON                                       | -    | TOU mode enabled                  |
@@ -152,6 +154,8 @@ See [Setup Modes Documentation](../../docs/setup-modes.md) for detailed connecti
 
 ### High/Low Voltage Ride Through
 
+I do not think these are correctly configured yet, as the HVRT and LVRT are in Disabled mode, that should be ok.
+
 | Parameter | Value   | Unit | Description               |
 | --------- | ------- | ---- | ------------------------- |
 | HVRT      | Disable | -    | High voltage ride through |
@@ -224,8 +228,10 @@ See [Setup Modes Documentation](../../docs/setup-modes.md) for detailed connecti
 ## Contact Information
 
 - **Configuration Date**: 2025-08-04
-- **Firmware Compatibility**: SUN-12K-SG04LP3-EU series
-- **Grid Standard**: VDE-AR-N 4105 (Netherlands implementation)
+- **Firmware Compatibility**:
+  - MAIN: 2006-1172-1807
+  - HMI: 1001-C050
+- **Grid Standard**: VDE4105 (Netherlands implementation)
 - **Setup Mode**: AC-Solar (microinverters only)
 
 ---
